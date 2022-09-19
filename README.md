@@ -20,6 +20,7 @@ vii)	All element selector
 viii)	Child filters [:nth-child(expr), :first-child, :last-child, :only-child]
 ix)	Visibility filters ( :hidden, :visible)
 x)	Attribute filters: all
+
 Q3. Write a jQuery script that demonstrate the use of following methods:
 i)	Getting ans setting the content of html page using .html(), .text(), replacedWith(), .remove(), 
 ii)	.before(), .after(), .append(), .prepend(), .remove(), .add(),
@@ -36,12 +37,19 @@ c.	slideIn(), slideOut(), slideToggle()
 Q4. Demonstrate various events : blur, change, focus, selct, cick, dblClick, submit.
 
 Q5. Write a JavaScript function that accept row, column, (to identify a particular cell) and a string to update the content of that cell.
+
 Q6. Write a JavaScript function to get the month name from a particular date.
+
 Q7. Write a javascript that demonstrate the extraction of various elements from Date() methods.
+
 Q8. Write a javaScript that demonstrate the function, function expression, and the IIFE definition and invocation.
+
 Q9. Demonstrate the creation and manipulation on array using array methods.
+
 Q10. Demonstrate the method chaining in jQuery.
+
 Q11. Demonstrate the use of .on() method
+
 Q12. This assignment is a three part assignment:
 Part I:Create a javascript object called "Client" with the following String attributes:
 o	First Name
@@ -58,10 +66,16 @@ o	Name your textarea "clientInfo"
 o	Give your button the label “Get Info”.
 o	Add event handling so that when a user types data into a form field, then moves off the field, the data is set in the client object.
 o	Add event handling to the form's button so that when the "Get Info" button is clicked on the data in the client object is output into the form's textarea, "clientInfo" .
+
 Q13. Write a JQuery function to test whether a date is a weekend.
+
 Q14. Use a function expression to count the number of vowels in a given string.
+
 Q15. Write a JavaScript function to add rows to a table.
+
 Q16. Write a JavaScript program to search a date within a string.
+
 Q17. Print the largest of three numbers using javasript. The numbers to be entered   through textboxes and result should be printed below the “Find Largest” button.
+
 Q18. Read n numbers. Count the number of negative numbers, positive
 numbers and zeros in the list. 
