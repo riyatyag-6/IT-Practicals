@@ -1,0 +1,36 @@
+
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+    <link rel = "stylesheet" href="Q2_selector.css">
+
+
+</head>
+<body>
+    <div class="1st">
+       <p>Hello ji </p>
+    </div>
+    <div  class="2nd">
+        <ul>
+        <li>First</li>
+           <li>Second</li>
+           <li>Third</li>
+
+        </ul>
+    </div>
+
+
+
+
+</body>
+<script src="https://code.jquery.com/jquery-3.6.1.js" integrity="sha256-3zlB5s2uwoUzrXK3BT7AX3FyvojsraNFxCc2vC/7pNI=" crossorigin="anonymous"></script>
+<script  src="Q2_selector.js"></script>
+
+
+
+
+
+
+
+
+</html>
